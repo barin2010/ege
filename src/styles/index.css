@@ -69,17 +69,11 @@
 
 :root {
   /* colors */
+  --background-color-F7F8FA: #f7f8fa;
   --background-color-00B4D8: #00b4d8;
   --primary-white-FFFFFF: #ffffff;
   --primary-black-000000: #000000;
-  /* --primary-blue-407BFF: #407bff;
-  --secondary-2-ECF2FF: #ecf2ff;
-  --secondary-red-EF5050F: #ef5050;
-  --secondary-2-ECF2FF: #ecf2ff;
-  --secondary-orange-FF9D43: #ff9d43;
-  --secondary-4-9EBBFF: #9ebbff;
-  --secondary-5-D7E3FF: #d7e3ff;
-  --secondary-6-8BAEFF: #8baeff; */
+  --primary-blue-5552E8: #5552e8;
 
   /* transition params */
   --my-transition-duration: 250ms;
@@ -121,7 +115,7 @@ body {
   width: 100%;
   padding-left: 20px;
   padding-right: 20px;
-  outline: 1px solid red;
+  /* outline: 1px solid red; */
 }
 /* @media (min-width: 320px) {
   .container {

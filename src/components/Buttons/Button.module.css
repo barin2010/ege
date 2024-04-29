@@ -5,6 +5,7 @@
   padding: 12px 24px;
   background-color: var(--background-color-00B4D8);
   border-radius: 6px;
+  cursor: pointer;
 }
 .buttonText {
   font-size: 15px;

@@ -1,0 +1,36 @@
+.advantage {
+  width: 1440px;
+  margin: 0 auto;
+  align-items: center;
+  background-color: var(--background-color-F7F8FA);
+  padding-bottom: 80px;
+}
+.box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 780px;
+  margin: 0 auto;
+  padding-top: 150px;
+  gap: 30px;
+  padding-bottom: 40px;
+}
+.header {
+  font-size: 64px;
+  line-height: 68px;
+  font-weight: 700;
+}
+.title {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.3;
+  opacity: 70%;
+}
+.advantageList {
+  width: 1110px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 64px;
+}

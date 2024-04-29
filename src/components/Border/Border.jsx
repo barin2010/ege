@@ -1,7 +1,7 @@
 import React from "react";
 import Button from "../Buttons/Button";
 import css from "./Border.module.css";
-import poligon from "../../images/Polygon 1.svg";
+import poligon from "../../images/Polygon_1.svg";
 
 const title = "Оставить заявку";
 
