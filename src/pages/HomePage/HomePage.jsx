@@ -4,6 +4,12 @@ import Border from "../../components/Border/Border";
 import Advantages from "../../components/Advantages/Advantages";
 import Rates from "../../components/Rates/Rates";
 import Reviews from "../../components/Reviews/Reviews";
+import Courses from "../../components/Courses/Courses";
+import Process from "../../components/Process/Process";
+import Items from "../../components/Items/Items";
+import Team from "../../components/Team/Team";
+import Vuz from "../../components/Vuz/Vuz";
+import Cases from "../../components/Cases/Cases";
 
 const HomePage = () => {
   return (
@@ -13,6 +19,12 @@ const HomePage = () => {
       <Advantages />
       <Rates />
       <Reviews />
+      <Courses />
+      <Process />
+      <Items />
+      <Team />
+      <Vuz />
+      <Cases />
     </div>
   );
 };
