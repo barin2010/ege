@@ -1,0 +1,76 @@
+.background {
+  background-image: image-set(
+    url("../../images/lesson_1x.png") 1x,
+    url("../../images/mark_2x.png") 2x
+  );
+  width: 1440px;
+  height: 476px;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.wrapper {
+  width: 825px;
+  margin: 0 auto;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
+  justify-content: center;
+}
+.header {
+  font-family: var(--secondary-font-Gilroy);
+  font-size: 48px;
+  line-height: 1.1;
+  color: var(--primary-white-FFFFFF);
+  margin-bottom: 24px;
+  font-weight: 700;
+}
+.title {
+  font-family: var(--secondary-font-Gilroy);
+  font-size: 18px;
+  line-height: 1.33;
+  color: var(--primary-white-FFFFFF);
+  opacity: 80%;
+  margin-bottom: 24px;
+  font-weight: 600;
+}
+.form {
+  /* display: flex;
+  gap: 16px; */
+  margin: 0 auto;
+  margin-bottom: 24px;
+}
+.input {
+  max-width: 260px;
+  background-color: var(--primary-white-FFFFFF);
+  border-radius: 8px;
+  padding: 20px 32px;
+}
+.input::placeholder {
+  font-size: 18px;
+  line-height: 1.33;
+  font-weight: 400;
+  opacity: 20%;
+}
+.btn {
+  max-width: 206px;
+  margin-left: 10px;
+  border-radius: 8px;
+  background-color: var(--background-color-00B4D8);
+  padding: 20px 32px;
+  font-family: var(--secondary-font-Gilroy);
+  font-size: 18px;
+  line-height: 1.33;
+  font-weight: 700;
+  color: var(--primary-white-FFFFFF);
+}
+.application {
+  font-family: var(--secondary-font-Gilroy);
+  font-size: 16px;
+  line-height: 1.08;
+  font-weight: 600;
+  color: var(--primary-white-FFFFFF);
+  opacity: 80%;
+}

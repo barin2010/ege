@@ -10,6 +10,9 @@ import Items from "../../components/Items/Items";
 import Team from "../../components/Team/Team";
 import Vuz from "../../components/Vuz/Vuz";
 import Cases from "../../components/Cases/Cases";
+import Lesson from "../../components/Lesson/Lesson";
+import Success from "../../components/Success/Success";
+import Footer from "../../components/Footer/Footer";
 
 const HomePage = () => {
   return (
@@ -25,6 +28,9 @@ const HomePage = () => {
       <Team />
       <Vuz />
       <Cases />
+      <Lesson />
+      <Success />
+      <Footer />
     </div>
   );
 };
