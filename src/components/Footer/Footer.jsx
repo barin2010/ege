@@ -40,7 +40,7 @@ const Footer = () => {
         </li>
       </ul>
       <ul className={css.navigation}>
-        <li className={css.navigatiomItem}>о компании</li>
+        <li className={css.navigatiomItem}>О компании</li>
         <li className={css.navigatiomItem}>Новости</li>
         <li className={css.navigatiomItem}>Помощь</li>
         <li className={css.navigatiomItem}>Контакты</li>
