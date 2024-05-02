@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ege/static/css/main.50a2496a.css",
-    "main.js": "/ege/static/js/main.7190a48b.js",
+    "main.css": "/ege/static/css/main.4a5fa46e.css",
+    "main.js": "/ege/static/js/main.a7cca9d6.js",
     "static/js/453.be7da176.chunk.js": "/ege/static/js/453.be7da176.chunk.js",
     "static/media/border_2x.png": "/ege/static/media/border_2x.d40a0fd95fae202ecbce.png",
     "static/media/vuz_background_2x.png": "/ege/static/media/vuz_background_2x.b861171f68bca323a781.png",
@@ -12,13 +12,16 @@
     "static/media/border_1x.png": "/ege/static/media/border_1x.bd63d6edd8c1e5568f20.png",
     "static/media/vuz_background_1x.png": "/ege/static/media/vuz_background_1x.4462f636f5e158667020.png",
     "static/media/Desktop_1x.png": "/ege/static/media/Desktop_1x.0ab2ae7a526eaff640a7.png",
+    "static/media/map_2x.png": "/ege/static/media/map_2x.430ee34542981c619a24.png",
     "static/media/items_1x.png": "/ege/static/media/items_1x.7ca438ea8e57795444ae.png",
     "static/media/image_three_2x.png": "/ege/static/media/image_three_2x.2d685f290e77782065a4.png",
     "static/media/image_two_2x.png": "/ege/static/media/image_two_2x.a48285a342b4c7adb23b.png",
     "static/media/courses_1x.png": "/ege/static/media/courses_1x.5a6cd5f67491f9f19d9d.png",
+    "static/media/lesson_1x.png": "/ege/static/media/lesson_1x.09caa309514f92db86d3.png",
     "static/media/mark_2x.png": "/ege/static/media/mark_2x.bf8b0c9f56ceae7eb4c1.png",
     "static/media/image_one_1x.png": "/ege/static/media/image_one_1x.2965d1c5e9032514ec00.png",
     "static/media/david_2x.png": "/ege/static/media/david_2x.2ccfae0998eba5154bf8.png",
+    "static/media/map_1x.png": "/ege/static/media/map_1x.7ddab48f5803833aa817.png",
     "static/media/uylia_2x.png": "/ege/static/media/uylia_2x.01e3fa2155de1a880444.png",
     "static/media/tem_3_2x.png": "/ege/static/media/tem_3_2x.428c65625cbf00598fa5.png",
     "static/media/image_two_1x.png": "/ege/static/media/image_two_1x.80e0739321c049ed996c.png",
@@ -54,19 +57,23 @@
     "static/media/Gilroy-Bold.woff2": "/ege/static/media/Gilroy-Bold.ef7c40ff1efeaaa4c7c6.woff2",
     "static/media/Gilroy-Semibold.woff2": "/ege/static/media/Gilroy-Semibold.7726b19d33f1b7f4135a.woff2",
     "static/media/vuz_1.png": "/ege/static/media/vuz_1.e9d3fb66464058f8f61f.png",
+    "static/media/instagram.svg": "/ege/static/media/instagram.c5cbb17ef4f723081473c8b786d6e97a.svg",
+    "static/media/vk.svg": "/ege/static/media/vk.8e7bcaa2af9c77ce50ab5d5d1a37da6e.svg",
     "static/media/cross.svg": "/ege/static/media/cross.d762c6e30f88462c005826e84fc88437.svg",
+    "static/media/twitter.svg": "/ege/static/media/twitter.53e1caf916e523042d507100c6b05ab4.svg",
     "static/media/persent.svg": "/ege/static/media/persent.13de71ad26233be60384c914157c789e.svg",
     "index.html": "/ege/index.html",
+    "static/media/fb.svg": "/ege/static/media/fb.02d223759c90983ba5775fa2c6a6df77.svg",
     "static/media/Polygon_1.svg": "/ege/static/media/Polygon_1.00dbc81e6d4692dfde74aa17eff37429.svg",
     "static/media/triangle.svg": "/ege/static/media/triangle.e146dbeceb3b8e12222b8c1df50cd99a.svg",
     "static/media/Vector.svg": "/ege/static/media/Vector.be5b5ef7a7ddca32cda64340f6d672ab.svg",
     "static/media/barblue.svg": "/ege/static/media/barblue.797d0c56caf4729d491bbab35fa1819c.svg",
-    "main.50a2496a.css.map": "/ege/static/css/main.50a2496a.css.map",
-    "main.7190a48b.js.map": "/ege/static/js/main.7190a48b.js.map",
+    "main.4a5fa46e.css.map": "/ege/static/css/main.4a5fa46e.css.map",
+    "main.a7cca9d6.js.map": "/ege/static/js/main.a7cca9d6.js.map",
     "453.be7da176.chunk.js.map": "/ege/static/js/453.be7da176.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50a2496a.css",
-    "static/js/main.7190a48b.js"
+    "static/css/main.4a5fa46e.css",
+    "static/js/main.a7cca9d6.js"
   ]
 }
