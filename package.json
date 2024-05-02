@@ -1,7 +1,7 @@
 {
   "name": "ege",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://barin2010.github.io/ege",
   "dependencies": {
     "@svgr/webpack": "^8.1.0",
